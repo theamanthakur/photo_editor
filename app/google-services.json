@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "967917582600",
+    "firebase_url": "https://video-call-e489d-default-rtdb.firebaseio.com",
+    "project_id": "video-call-e489d",
+    "storage_bucket": "video-call-e489d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967917582600:android:0144c41dd00cfe851394bd",
+        "android_client_info": {
+          "package_name": "com.ttl.pictureeditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967917582600-sdkj86kmkmq0s4mshto2nlotk33kcr7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqPSok-Il7CDVSs5cQqh2MDbiMVpGpz20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967917582600-sdkj86kmkmq0s4mshto2nlotk33kcr7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967917582600:android:a978f5f0a4bfdf481394bd",
+        "android_client_info": {
+          "package_name": "com.ttl.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967917582600-sdkj86kmkmq0s4mshto2nlotk33kcr7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqPSok-Il7CDVSs5cQqh2MDbiMVpGpz20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967917582600-sdkj86kmkmq0s4mshto2nlotk33kcr7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
